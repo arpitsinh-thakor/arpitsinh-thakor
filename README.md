@@ -1,219 +1,274 @@
+<div align="center">
+
 # 👋 Hi, I'm Arpitsinh Thakor
 
-### 🚀 Full-Stack Developer | React.js | Node.js | MongoDB | JavaScript
+### Full-Stack Developer • React.js • Node.js • MongoDB • JavaScript
 
-I’m a **Computer Science Engineering graduate from Chandigarh University** passionate about building practical, user-focused web applications and solving real-world problems through code.
+<a href="https://github.com/arpitsinh-thakor">
+  <img src="https://komarev.com/ghpvc/?username=arpitsinh-thakor&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
 
-I enjoy working across the **frontend, backend, databases, and APIs** to turn ideas into complete applications.
+<a href="https://github.com/arpitsinh-thakor?tab=followers">
+  <img src="https://img.shields.io/github/followers/arpitsinh-thakor?label=Followers&style=flat" alt="GitHub Followers"/>
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 **CSE Graduate — Chandigarh University, 2024**
-* 💻 Focused on **Full-Stack Web Development**
-* ⚛️ Building applications with **React.js**
-* 🛠️ Developing REST APIs using **Node.js & Express.js**
-* 🗄️ Working with **MongoDB & Firebase**
-* 🧠 Strengthening **Data Structures, Algorithms & Problem Solving**
-* 🚀 Interested in building real-world, production-ready applications
-* 📚 Always learning and experimenting with new technologies
+I'm a **Computer Science Engineering graduate from Chandigarh University** who enjoys building practical and user-focused web applications.
+
+I work across the **frontend, backend, databases, APIs, and authentication**, with a strong interest in understanding how applications work end-to-end.
+
+```text
+💻 Full-Stack Development
+⚛️ React.js & Modern Frontend
+🟢 Node.js & Express.js
+🗄️ MongoDB & Firebase
+🔗 REST APIs
+🧠 Data Structures & Problem Solving
+🤖 AI-powered Applications
+```
+
+* 🎓 CSE Graduate — Chandigarh University, 2024
+* 🚀 Building real-world full-stack applications
+* 🌱 Currently improving my backend and system-design skills
+* 🧠 Practicing Data Structures & Algorithms
+* 💡 Interested in building scalable and maintainable applications
+* 🎯 Working towards becoming a strong Software Developer
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=javascript,java,html,css" />
 </p>
 
-### ⚛️ Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-### 🗄️ Database & Services
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ## 📄 PDF Page Selector
 
-**Full-stack PDF management and page selection application**
+A full-stack PDF utility that allows users to upload PDF files, store them, select specific pages, and download the generated PDF.
 
-A web application that allows users to upload PDF files, store them, select specific pages, and download a newly generated PDF.
-
-**Tech Stack**
+### Tech
 
 `React.js` `Node.js` `Express.js` `MongoDB`
 
-### ✨ Features
+### Features
 
 * 📤 PDF upload
 * 🗄️ Database-backed file storage
-* 📑 Select specific PDF pages
-* 📥 Generate and download selected pages
+* 📑 Page selection
+* 📥 PDF generation & download
 * 🔗 REST API integration
-* 🎨 Responsive user interface
+* 📱 Responsive interface
 
-🔗 [View Project](https://github.com/arpitsinh-thakor/PDFPageSelector)
+**[View Repository →](https://github.com/arpitsinh-thakor/PDFPageSelector)**
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🎬 Netflix GPT
 
-**AI-powered movie discovery application**
+A Netflix-inspired web application combining a modern movie-browsing experience with AI-powered movie recommendations.
 
-A Netflix-inspired application combining a modern React interface with AI-powered movie recommendations.
-
-**Tech Stack**
+### Tech
 
 `React.js` `Redux` `Firebase` `Tailwind CSS` `Gemini API`
 
-### ✨ Features
+### Features
 
 * 🔐 Firebase authentication
 * 🎬 Movie browsing
 * 🔎 Movie search
-* 🤖 AI-powered recommendations
+* 🤖 AI recommendations
 * 🧠 Redux state management
 * 📱 Responsive UI
 
-🔗 [View Project](https://github.com/arpitsinh-thakor/NETFLIX-GPT)
+**[View Repository →](https://github.com/arpitsinh-thakor/NETFLIX-GPT)**
 
----
+</td>
 
-## 💻 MEDIUM2
+</tr>
 
-A modern web application project focused on building a clean and interactive user experience.
+<tr>
 
-**Tech Stack**
+<td width="50%" valign="top">
+
+## ✍️ MEDIUM2
+
+A web application project focused on creating a modern content-oriented user experience.
+
+### Tech
 
 `TypeScript` `React.js`
 
-🔗 [View Project](https://github.com/arpitsinh-thakor/MEDIUM2)
+**[View Repository →](https://github.com/arpitsinh-thakor/MEDIUM2)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔨 More Projects
+
+I'm continuously experimenting with new technologies and building projects to strengthen my development skills.
+
+Explore my repositories to see more:
+
+**[View All Repositories →](https://github.com/arpitsinh-thakor?tab=repositories)**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🧠 What I'm Currently Working On
+# 🧠 What I Work With
 
 ```text
-Full-Stack Development
-        ↓
-React.js & Advanced JavaScript
-        ↓
-Node.js & Express.js
-        ↓
-MongoDB & Database Design
-        ↓
-REST APIs & Authentication
-        ↓
-Data Structures & Algorithms
-        ↓
-System Design
+Frontend
+   ├── React.js
+   ├── Redux
+   ├── JavaScript
+   ├── HTML5 / CSS3
+   └── Tailwind CSS
+
+Backend
+   ├── Node.js
+   ├── Express.js
+   └── REST APIs
+
+Database
+   ├── MongoDB
+   ├── MySQL
+   └── Firebase
+
+Development
+   ├── Git & GitHub
+   ├── API Integration
+   ├── Authentication
+   └── Problem Solving
 ```
 
 ---
 
-# 📚 Areas of Interest
+# 📚 Currently Learning
 
-* 🌐 Full-Stack Web Development
-* ⚛️ React.js & Modern Frontend Development
-* 🟢 Node.js Backend Development
-* 🔗 REST API Design
-* 🗄️ Database Design
-* 🔐 Authentication & Authorization
+I'm currently focusing on improving my skills in:
+
+* ⚛️ Advanced React.js
+* 🟢 Node.js & Express.js
+* 🗄️ Database Design & Optimization
+* 🔐 Authentication & Application Security
+* 🔗 REST API Architecture
 * 🧠 Data Structures & Algorithms
+* 🏗️ System Design
 * ☁️ Cloud & Deployment
-* 🤖 AI-powered Applications
+* 🤖 AI Integration in Web Applications
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arpitsinh-thakor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=arpitsinh-thakor&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsinh-thakor&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsinh-thakor&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitsinh-thakor&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitsinh-thakor&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
 ---
 
 # 🐍 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/arpitsinh-thakor/arpitsinh-thakor/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/arpitsinh-thakor/arpitsinh-thakor/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
-</p>
+</div>
 
 ---
 
 # 🎯 2026 Goals
 
-* 🚀 Build more production-ready full-stack applications
-* 🧠 Improve Data Structures & Algorithms
-* ⚙️ Master backend development with Node.js
-* 🗄️ Improve database architecture and optimization
-* 🔐 Learn advanced authentication & security
-* ☁️ Explore cloud deployment and DevOps
-* 🤖 Build more AI-integrated applications
-* 💼 Grow as a professional Software Developer
+```text
+✓ Build production-ready full-stack applications
+✓ Strengthen Data Structures & Algorithms
+✓ Improve backend architecture
+✓ Learn advanced database concepts
+✓ Build AI-powered applications
+✓ Improve system-design knowledge
+✓ Explore cloud & DevOps
+✓ Grow as a professional Software Developer
+```
 
 ---
 
 # 🤝 Let's Connect
 
-<p align="left">
+<div align="center">
 
 <a href="https://github.com/arpitsinh-thakor">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/arpitsinh-thakor-305848203/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 💻 Build. Learn. Solve. Repeat. 🚀
+### 💻 Build • Learn • Solve • Repeat 🚀
 
-⭐ Feel free to explore my repositories!
+**Thanks for visiting my profile!**
 
-</p>
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
