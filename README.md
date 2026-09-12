@@ -1,90 +1,34 @@
-# 🚀 Featured Projects
+<div align="center">
 
-<table>
-<tr>
+# 👋 Hi, I'm Arpitsinh Thakor
 
-<td width="50%" valign="top">
+### Full-Stack Developer • React.js • Next.js • Node.js • MongoDB • JavaScript
 
-## 📄 PDF Page Selector
+<a href="https://github.com/arpitsinh-thakor">
+  <img src="https://komarev.com/ghpvc/?username=arpitsinh-thakor&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
 
-A full-stack PDF utility that allows users to upload PDF files, store them, select specific pages, and download the generated PDF.
+<a href="https://github.com/arpitsinh-thakor?tab=followers">
+  <img src="https://img.shields.io/github/followers/arpitsinh-thakor?label=Followers&style=flat" alt="GitHub Followers"/>
+</a>
 
-### Tech
+</div>
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+---
 
-### Features
+## 👨‍💻 About Me
 
-* 📤 PDF upload
-* 🗄️ Database-backed file storage
-* 📑 Page selection
-* 📥 PDF generation & download
-* 🔗 REST API integration
-* 📱 Responsive interface
+I'm a **Computer Science Engineering graduate from Chandigarh University** who enjoys building practical, user-focused web applications and solving real-world problems through code.
 
-**[View Repository →](https://github.com/arpitsinh-thakor/PDFPageSelector)**
+I work across the **frontend, backend, databases, APIs, authentication, and application architecture**, with a strong interest in understanding how applications work end-to-end.
 
-</td>
-
-<td width="50%" valign="top">
-
-## 🎬 Netflix GPT
-
-A Netflix-inspired web application combining a modern movie-browsing experience with AI-powered movie recommendations.
-
-### Tech
-
-`React.js` `Redux` `Firebase` `Tailwind CSS` `Gemini API`
-
-### Features
-
-* 🔐 Firebase authentication
-* 🎬 Movie browsing
-* 🔎 Movie search
-* 🤖 AI recommendations
-* 🧠 Redux state management
-* 📱 Responsive UI
-
-**[View Repository →](https://github.com/arpitsinh-thakor/NETFLIX-GPT)**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🍛 SwadVeda
-
-A food-focused web application designed to provide users with a modern and engaging experience for exploring food and related content.
-
-### Tech
-
-`React.js` `JavaScript`
-
-### Highlights
-
-* 🍽️ Food-focused user experience
-* 🎨 Modern and responsive interface
-* 🔍 Easy exploration and navigation
-* 📱 Responsive design
-
-**[View Repository →](https://github.com/arpitsinh-thakor/SwadVeda)**
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🔨 More Projects
-
-I'm continuously experimenting with new technologies and building projects to strengthen my development skills.
-
-Explore my repositories to see more:
-
-**[View All Repositories →](https://github.com/arpitsinh-thakor?tab=repositories)**
-
-</td>
-
-</tr>
-</table>
+```text
+💻 Full-Stack Development
+⚛️ React.js & Next.js
+🟢 Node.js & Express.js
+🗄️ MongoDB & Firebase
+🔗 REST APIs
+🔐 Authentication & Security
+💳 Payment Integration
+🧠 Data Structures & Problem Solving
+🤖 AI-powered Applications
